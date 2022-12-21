@@ -3,7 +3,7 @@ Zabbix Plugin
 
 Donations
 ---------
-We accept PayPal through:
+We accept PayPal through :
 
 https://www.paypal.me/netkiller
 
